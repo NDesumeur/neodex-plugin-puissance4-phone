@@ -1,9 +1,9 @@
 {
   "pluginId": "neodex.puissance4",
   "repo": "NDesumeur/neodex-plugin-puissance4-phone",
-  "version": "1.0.0",
-  "sha256": "bd50f06b37defbfa339702de02ff549289955ea805e69c69b0fc758c2e6d968a",
-  "approvedAt": "2026-11-18T18:56:04.206Z",
+  "version": "1.0.1",
+  "sha256": "84bd128ab91827a9c98af87993f3bceedc95d36759d459d086a1ff762164d6d3",
+  "approvedAt": "2026-11-19T23:26:39.518Z",
   "neobase": ">=4.0.0",
-  "signature": "hrtx3SfnyCGALG3AbtJCxhELi0T+sad1Juh+QwkquW8ZhggHJmG/5jS7Nyg3j2nqyxOIRE6vBjPYviOu8NZMBA=="
+  "signature": "TR81BKe1/gUW0TN5Hq43r+oBQl8BFiUE+JGWJiCnhFDZYPsrH301OcMnZiJmLkhRRng36Qw5jYRP8wBOZ01sDg=="
 }
